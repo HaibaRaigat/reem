@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-19T11:05:25+00:00\n"
+"PO-Revision-Date: 2019-11-19T11:05:25+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.staticPages.displayName"
+msgstr "静态页面插件"
+
+msgid "plugins.generic.staticPages.description"
+msgstr "该插件允许管理静态内容。"
+
+msgid "plugins.generic.staticPages.staticPages"
+msgstr "静态页面"
+
+msgid "plugins.generic.staticPages.pageTitle"
+msgstr "标题"
+
+msgid "plugins.generic.staticPages.content"
+msgstr "内容"
+
+msgid "plugins.generic.staticPages.path"
+msgstr "路径"
+
+msgid "plugins.generic.staticPages.requirement.tinymce"
+msgstr "<strong>为了能够添加/编辑内容必须安装 TinyMCE 插件。</strong>"
+
+msgid "plugins.generic.staticPages.editAddContent"
+msgstr "编辑/添加内容"
+
+msgid "plugins.generic.staticPages.addStaticPage"
+msgstr "添加静态页面"
+
+msgid "plugins.generic.staticPages.addNewPage"
+msgstr "添加新页面"
+
+msgid "plugins.generic.staticPages.editStaticPage"
+msgstr "编辑静态页面"
+
+msgid "plugins.generic.staticPages.noneCreated"
+msgstr "未创建静态页面。"
+
+msgid "plugins.generic.staticPages.settingInstructions"
+msgstr ""
+"下面的表显示所有您创建的静态页面。您可以使用右侧的链接来编辑或删除页面。"
+
+msgid "plugins.generic.staticPages.editInstructions"
+msgstr "使用下面的表单来添加/编辑页面内容。"
+
+msgid "plugins.generic.staticPages.pathRegEx"
+msgstr "路径字段只包含字母和 '.'，'/'，'-'以及'_'。"
+
+msgid "plugins.generic.staticPages.viewInstructions"
+msgstr ""
+"<p>此页面可在："
+"<blockquote>{$pagesPath}</blockquote>"
+"…… %PATH% 是上面输入的路径。<strong>注意：</"
+"strong>页面路径不能相同。使用系统内置路径可能会导致您不能使用一些重要功能。</"
+"p>"
+
+msgid "plugins.generic.staticPages.duplicatePath"
+msgstr "该路径已经被其它静态页面使用。"
+
+msgid "plugins.generic.staticPages.pageSaved"
+msgstr "页面已保存。"
+
+msgid "plugins.generic.staticPages.pageDeleted"
+msgstr "页面已删除。"
+
+msgid "plugins.generic.staticPages.noneExist"
+msgstr "没有页面生成。"

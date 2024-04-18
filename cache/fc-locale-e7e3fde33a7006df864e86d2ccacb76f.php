@@ -1,0 +1,16 @@
+<?php return array (
+  'plugins.generic.customBlock.showName.description' => 'Afficher le nom de ce bloc au haut du contenu du bloc.',
+  'plugins.generic.customBlock.showName' => 'Afficher le nom',
+  'plugins.generic.customBlock.nameRegEx' => 'Le nom du bloc personnalisé ne doit contenir que des lettres, des chiffres, des tirets et/ou des traits de soulignement.',
+  'plugins.generic.customBlock.nameRequired' => 'Le nom du bloc personnalisé est requis.',
+  'plugins.generic.customBlock.description' => 'Il s\'agit d\'un bloc créé par l\'utilisateur-trice.',
+  'plugins.generic.customBlock.nameSuffix' => '(Plugin de bloc personnalisé)',
+  'plugins.generic.customBlock.content' => 'Contenu',
+  'plugins.generic.customBlockManager.noneCreated' => 'Aucun bloc personnalisé n\'a été créé.',
+  'plugins.generic.customBlockManager.addBlock' => 'Ajouter un bloc',
+  'plugins.generic.customBlockManager.blockName' => 'Nom du bloc',
+  'plugins.generic.customBlockManager.customBlocks' => 'Blocs personnalisés',
+  'plugins.generic.customBlockManager.description' => 'Ce module vous permet de gérer (ajouter, modifier, supprimer) les blocs personnalisés de la barre latérale.',
+  'plugins.generic.customBlockManager.manage' => 'Gérer les blocs personnalisés',
+  'plugins.generic.customBlockManager.displayName' => 'Gestionnaire de bloc personnalisé',
+);

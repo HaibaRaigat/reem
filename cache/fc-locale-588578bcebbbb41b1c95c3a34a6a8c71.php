@@ -1,0 +1,15 @@
+<?php return array (
+  'plugins.generic.webfeed.displayName' => 'Module de flux web',
+  'plugins.generic.webfeed.description' => 'Ce module produit des flux de syndication RRS/Atom pour le numéro en cours.',
+  'plugins.generic.webfeed.settings' => 'Paramètres',
+  'plugins.generic.webfeed.settings.issue' => 'Afficher les liens du flux web sur les pages du numéro uniquement.',
+  'plugins.generic.webfeed.settings.homepage' => 'Afficher les liens du flux sur la page d\'accueil et sur les pages du numéro uniquement.',
+  'plugins.generic.webfeed.settings.all' => 'Afficher les liens du flux web sur toutes les pages de la revue.',
+  'plugins.generic.webfeed.settings.currentIssue' => 'Afficher les éléments dans le numéro publié.',
+  'plugins.generic.webfeed.settings.recent' => 'Afficher un nombre fixe des éléments les plus récents.',
+  'plugins.generic.webfeed.settings.recentArticles' => 'Nombre d\'éléments à afficher',
+  'plugins.generic.webfeed.settings.recentItemsRequired' => 'veuillez entrer un entier positif pour les éléments publiés récemment.',
+  'plugins.generic.webfeed.atom.altText' => 'Logo Atom',
+  'plugins.generic.webfeed.rss1.altText' => 'Logo RSS1',
+  'plugins.generic.webfeed.rss2.altText' => 'Logo RSS2',
+);

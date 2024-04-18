@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-21 15:38+0000\n"
+"Last-Translator: Haval Abdulkarim <haval.abdulkarim@gmail.com>\n"
+"Language-Team: Kurdish <http://translate.pkp.sfu.ca/projects/pkp-lib/reader/"
+"ku_IQ/>\n"
+"Language: ku_IQ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "comments.anonymous"
+msgstr "بەکارهێنەرێکی نەناسراو"
+
+msgid "comments.anonymousNamed"
+msgstr "\"{$userName}\""
+
+msgid "comments.body"
+msgstr "ناوەڕۆک"
+
+msgid "comments.titleRequired"
+msgstr "ناونیشانی تێچێنەکە داوا کراوە."
+
+msgid "comments.confirmDeleteChildren"
+msgstr ""
+"سڕینەوەی ئەم تێچێنە دەبێتە هۆکاری سڕینەوەی وەڵامدانەوەکانیشی. ئایا تۆ لەم "
+"سڕینەوەیە دڵنیایت؟"
+
+msgid "comments.delete"
+msgstr "ئەم تێچێنە بسڕەوە"
+
+msgid "comments.email"
+msgstr "ئیمەیڵی خاوەن پێشنیاز"
+
+msgid "comments.emailReply"
+msgstr "وەڵامدانەوە بە ئیمەیڵ"
+
+msgid "comments.enterComment"
+msgstr "تێچێنێک بنوسە"
+
+msgid "comments.inResponseTo"
+msgstr "لە وەڵامی  <a href=\"{$url}\">{$title}</a>"
+
+msgid "comments.name"
+msgstr "ناوی خاوەن پێشنیاز"
+
+msgid "comments.noComments"
+msgstr "هیچ خوێنەرێک تێچێنی نەنوسیوە."
+
+msgid "comments.nReplies"
+msgstr "({$num} وەڵامدانەوەکان)"
+
+msgid "comments.oneReply"
+msgstr "(یەک وەڵام)"
+
+msgid "comments.postAnonymously"
+msgstr "ئەم تێچێنە وەک بەکارهێنەرێکی نەناسراو بنوسە"
+
+msgid "comments.postReply"
+msgstr "وەڵام بدەوە"
+
+msgid "comments.readerComments"
+msgstr "تێچێنەکانی خوێنەر"
+
+msgid "comments.readMore"
+msgstr "زیاتر بخوێنەوە"
+
+msgid "comments.replies"
+msgstr "وەڵامدانەوەکان"
+
+msgid "comments.title"
+msgstr "ناونیشان"
+
+msgid "comments.viewAllComments"
+msgstr "هەمو تێچێنەکان ببینە"
+
+msgid "reader.fullText"
+msgstr "تێکستی تەواو:"

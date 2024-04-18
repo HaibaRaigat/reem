@@ -1,0 +1,10 @@
+<?php return array (
+  'plugins.generic.googleAnalytics.authorAccountInvalid' => 'Un ou plusieurs numéros de compte Google Analytics saisi(s) pour les auteurs-es des soumissions ne sont pas valides.',
+  'plugins.generic.googleAnalytics.authorAccount.description' => 'Pour retracer le lectorat des articles publiés à l\'aide de Google Analytics, saisir un numéro de compte ici (par ex., UA-xxxxxx-x).',
+  'plugins.generic.googleAnalytics.authorAccount' => 'Numéro de compte Google Analytics',
+  'plugins.generic.googleAnalytics.manager.settings.googleAnalyticsSiteIdRequired' => 'Veuillez entrer un numéro de compte.',
+  'plugins.generic.googleAnalytics.manager.settings.googleAnalyticsSiteId' => 'Numéro de compte',
+  'plugins.generic.googleAnalytics.manager.settings.description' => '<p> Au moyen de ce module, vous pouvez utiliser Google Analytics pour collecter et analyser l\'utilisation et le trafic du site Web pour cette revue. Veuillez noter que pour utiliser ce module, vous devez déjà avoir un compte Google Analytics. Veuillez consulter le <a href="http://www.google.com/analytics/" title="Google Analytics site">site Google Analytics </a> pour de plus amples renseignements.</p><p>Veuillez noter que Google Analytics peut nécessiter jusqu\'à 24 heures avant que les statistiques ne soient collectées et rapportées. Pendant cette période, la fonction "Vérifier l\'état" peut ne pas indiquer avec précision si elle a détecté le code de suivi requis.</p>',
+  'plugins.generic.googleAnalytics.description' => 'Intégrer OJS à Google Analytics, l’application d\'analyse de trafic des sites webs de Google. Vous devez avoir un compte Google Analytics pour utiliser cette application. Veuillez consulter le <a href="http://www.google.com/analytics/" title="Google Analytics site">site Google Analytics </a> pour de plus amples renseignements.',
+  'plugins.generic.googleAnalytics.displayName' => 'Module Google Analytics',
+);
